@@ -1,22 +1,22 @@
 h3 {
-    width: 400pt;
-    height: 1.5cm;
+    width: 300pt;
+    height: 2cm;
     margin-right: 710px;
-    border : 7px outset purple;
+    border : 7px outset rgb(245, 83, 202);
     border-style: inset;
     background-color: aqua;
     font-size: 10px;
 }
 
 h2 {
-    width: 200pt;
+    width: 400pt;
     height: 3cm;
     border-color: gray;
     border-style: groove;
 }
 
 h1 {
-    width: 350pt;
+    width: 400pt;
     height: 2,5cm;
     border-top: black;
     border-bottom: gray;
