@@ -1,0 +1,27 @@
+h3 {
+    width: 400pt;
+    height: 1.5cm;
+    margin-right: 710px;
+    border : 7px outset purple;
+    border-style: inset;
+    background-color: aqua;
+    font-size: 10px;
+}
+
+h2 {
+    width: 200pt;
+    height: 3cm;
+    border-color: gray;
+    border-style: groove;
+}
+
+h1 {
+    width: 350pt;
+    height: 2,5cm;
+    border-top: black;
+    border-bottom: gray;
+    border-left: red;
+    border-right: fuchsia;
+}
+
+<! Kamil Radulski 2G2>
